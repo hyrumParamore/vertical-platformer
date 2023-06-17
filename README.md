@@ -5,10 +5,10 @@ For this project, I wanted to learn the basics, or rather the main ideas of crea
 The software that I wrote mainly came from following a few tutorials on JavaScript Game Development. While there are a few things that I did on my own, the main idea for this project was to learn and practice.
 This JavaScript game is a vary basic platformer game. Basically, there is a map with platforms on it and you move a character to jump around them. This game contains player movement, player animation for each movement and action, player collision, and many more fun game elements. While there is really no story or purpose other than jumping around platforms, it is still pretty enjoyable to move around a image that has been coded to move, jump, and fall. 
 
-Again, the main purpose of this software was to learn how it works and what it takes to build games using JavaScript. This included learning more about how building a program using classes works, using inheritance to make them work together in specific ways, and learning more about how useful object oriented programming really is. While I can't take full credit for the code, I wrote all of it out myself and took the time to understand how it all functions and works together to become what it is.
+Again, the main purpose of this software/project was to learn how it works and what it takes to build games using JavaScript. This included learning more about how building a program using classes works, using inheritance to make them work together in specific ways, and learning more about how useful object oriented programming really is. While I can't take full credit for the code, I wrote all of it out myself and took the time to understand how it all functions and works together to become what it is.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/JGza-6sIbG8)
 
 
 # Development Environment
@@ -21,7 +21,6 @@ Again, the main purpose of this software was to learn how it works and what it t
 
 # Useful Websites
 
-<!-- {Make a list of websites that you found helpful in this project} -->
 
 - [Canvas API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Vertical Platformer Game Tutorial with JavaScript HTML and Canvas](https://www.youtube.com/watch?v=rTVoyWu8r6g)

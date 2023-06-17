@@ -58,7 +58,7 @@ platformCollisions2D.forEach((row, y) => {
 })
 
 
-
+// Gravity
 const gravity = 0.08
 
 
@@ -165,13 +165,13 @@ function animate() {
     // Draws Background Image
     background.update()
     // Render out collision blocks
-    // collisionBlocks.forEach(CollisionBlock => {
-    //     CollisionBlock.update()
-    // })
-    // // Render out Platform collision blocks
-    // platformCollisionBlocks.forEach(block => {
-    //     block.update()
-    // })
+    collisionBlocks.forEach(CollisionBlock => {
+        CollisionBlock.update()
+    })
+    // Render out Platform collision blocks
+    platformCollisionBlocks.forEach(block => {
+        block.update()
+    })
 
 
 
